@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Strategic evolution in extensive form games"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+excerpt: 'Evolutionary game theory is often agnostic about its interpretation. One set of equations can represent biological evolution, cultural evolution, or individual learning. We argue that this multiple interpretation cannot hold in games with a temporal structure (known as sequential or extensive-form games). We introduce a new dynamic which better represents evolution and learning in extensive-form games, and we illustrate some differences. Our model also provides a condition under which evolutionary game theory will coincide with classical game theory.'
+date: June 2025
+venue: 'test'
+slidesurl: ''
+paperurl: ''
+bibtexurl: ''
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
